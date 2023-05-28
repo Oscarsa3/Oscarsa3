@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [medium.com/@oscarsa3](medium.com/@oscarsa3)
 
-- 📫 How to reach me **oscarorlandosalinassilvestre@gmail.com**
+- 📫 How to reach me **oscarsadev@gmail.com**
 
 - ⚡ Fun fact **I thing I'm funny**
 
