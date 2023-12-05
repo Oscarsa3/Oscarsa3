@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarsa3&label=Profile%20views&color=0e75b6&style=flat" alt="oscarsa3" /> 
 </p>
 
-- 🔭 I’m currently working on [My owner printf function](https://github.com/Oscarsa3/holbertonschool-printf)
+- 🔭 I’m currently working on [A Project with GCP(Grupo Cerro Prieto)](https://github.com/Oscarsa3/holbertonschool-printf)
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript, PHP**
 
 - 👯 I’m looking to collaborate on [Simple shell](https://github.com/Ghelder/holbertonschool-simple_shell)
 
